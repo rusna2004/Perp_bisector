@@ -49,8 +49,6 @@ for vertex, (x, y) in vertices.items():
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
-# Set plot title
-plt.title('Perpendicular bisectors of the sides AB, BC and AC')
 
 # Add legend
 plt.legend()
